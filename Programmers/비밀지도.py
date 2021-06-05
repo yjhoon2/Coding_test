@@ -23,7 +23,6 @@ def solution(n, arr1, arr2):
 
 
 
-
 # 다른사람 풀이 1
 # 비트연산자 사용
 
@@ -36,7 +35,6 @@ def solution(n, arr1, arr2):
         a12=a12.replace('0',' ')
         answer.append(a12)
     return answer
-
 
 
 # 다른사람 풀이 2

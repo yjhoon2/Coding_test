@@ -11,5 +11,4 @@ for i in num:
 '''
 # 이것도 참고
 n = int(input().split()[1])
-print(n)
 print(' '.join(x for x in input().split() if int(x) < n))

@@ -6,4 +6,4 @@ n, m = map(int, input().split())
 mat = [list(input().rstrip()) for _ in range(n)]
 
 
-fdasffdsa
+

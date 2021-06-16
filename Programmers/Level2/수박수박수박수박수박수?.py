@@ -6,6 +6,3 @@ def solution(n):
         else:
             answer += "박"
     return answer
-
-a = "+1234"
-print(int(a))
